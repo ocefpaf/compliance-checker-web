@@ -1,3 +1,5 @@
+<h2 style="color:red;">WARNING: This web app is deprecated and is no longer updated.<br>The latest compliance-checker web app can be found <a href="https://ioos.github.io/compliance-checker-wasm-web/ioos_cc_browser.html">here.</a></h2>
+
 IOOS Compliance Checker Web
 ===========================
 
