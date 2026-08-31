@@ -1,3 +1,13 @@
+<h2 style="color:red;">
+WARNING: This web app is deprecated and the repository archived!
+
+Future development will happen in the new repository:
+
+https://github.com/ioos/compliance-checker-wasm-web
+</h2>
+
+
+
 IOOS Compliance Checker Web
 ===========================
 
